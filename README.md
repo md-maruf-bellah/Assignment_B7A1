@@ -1,16 +1,16 @@
-# Advanced TypeScript Problem Solving Assignment
+# Advanced TypeScript Problem Solving Assignments
 
-## Overview
+### Overview
 
-This project contains solutions to an advanced TypeScript assignment covering fundamental and intermediate concepts such as:
+This project includes solutions to a higher order TypeScript assignment on the following fundamental and intermediate concepts:
 
-- Functions and Array Manipulation
-- TypeScript Type System (Union Types, Generics)
-- Type Guards and Type Narrowing
+- Functions and Array Handling
+- TypeScript Type System (Generics, Union types etc.)
+- Type Guards and Narrowing
 - Interfaces and Utility Types (Pick, Omit)
-- Object-Oriented Programming (OOP)
-- Class Inheritance and Methods
+  Object-Oriented Programming (OOP)
+  -Class Inheritance and Methods
 
-The goal of this assignment is to demonstrate clean, type-safe, and reusable TypeScript code following best practices.
+This assignment aims to demonstrate clean, type-safe and reusable TypeScript code. Best practices are followed.
 
 ---
